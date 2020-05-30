@@ -1,0 +1,7 @@
+C:\Users\Дом\source\repos\LabW2\LabW2\bin\Debug\LabW2.exe.config
+C:\Users\Дом\source\repos\LabW2\LabW2\bin\Debug\LabW2.exe
+C:\Users\Дом\source\repos\LabW2\LabW2\bin\Debug\LabW2.pdb
+C:\Users\Дом\source\repos\LabW2\LabW2\obj\Debug\LabW2.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\LabW2\LabW2\obj\Debug\LabW2.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\LabW2\LabW2\obj\Debug\LabW2.exe
+C:\Users\Дом\source\repos\LabW2\LabW2\obj\Debug\LabW2.pdb
